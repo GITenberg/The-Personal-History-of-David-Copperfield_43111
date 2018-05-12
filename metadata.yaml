@@ -29,6 +29,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: Young David Copperfield, orphaned as a child, abandoned by a vicious
   stepfather, must learn to make a life for himself in early 19th century England.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43111#The-Personal-History-of-David-Copperfield
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
