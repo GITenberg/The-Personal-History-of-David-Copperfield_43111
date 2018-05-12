@@ -1,0 +1,52 @@
+_repo: The-Personal-History-of-David-Copperfield_43111
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Hablot Knight
+    aliases:
+    - Phiz
+    - Brown, Hablot K. (Hablot Knight)
+    - Browne, H. K. (Hablot Knight)
+    - Browne, Hablot K. (Hablot Knight)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '24934'
+    url: http://www.gutenberg.org/2009/agents/24934
+    wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+covers:
+- cover_type: archival
+  image_path: 43111-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Young David Copperfield, orphaned as a child, abandoned by a vicious
+  stepfather, must learn to make a life for himself in early 19th century England.
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43111'
+  lccn: '19001692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Stepfathers -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Child labor -- Fiction'
+title: The Personal History of David Copperfield
+url: http://www.gutenberg.org/ebooks/43111
